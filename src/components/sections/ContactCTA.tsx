@@ -1,5 +1,5 @@
 import React from 'react';
-import { CONTACT_INFO } from '@/src/constants/links';
+import { CONTACT_INFO } from '@/constants/links';
 
 export default function ContactCTA() {
   return (

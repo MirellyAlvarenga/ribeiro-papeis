@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { CONTACT_INFO } from '@/src/constants/links';
+import { CONTACT_INFO } from '@/constants/links';
 
 export default function Products() {
   const categories = [
