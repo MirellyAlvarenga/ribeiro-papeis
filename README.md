@@ -71,58 +71,6 @@ ribeiro-papeis/
 
 ---
 
-## 🛠️ Como Executar o Projeto Localmente
-
-### Pré-requisitos
-
-Certifique-se de ter instalado em sua máquina:
-- **[Node.js](https://nodejs.org/)** (Versão 18.x ou superior)
-- **npm**, **yarn** ou **pnpm**
-
-### Passo a Passo
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/ribeiro-papeis.git
-   ```
-
-2. **Acesse a pasta do projeto:**
-   ```bash
-   cd ribeiro-papeis
-   ```
-
-3. **Instale as dependências:**
-   ```bash
-   npm install
-   # ou
-   yarn install
-   # ou
-   pnpm install
-   ```
-
-4. **Configure os Links (WhatsApp e Instagram):**
-   Edite o arquivo `src/constants/links.ts` com o número correto de telefone e o usuário do Instagram:
-   ```typescript
-   export const SOCIAL_LINKS = {
-     whatsapp: "https://wa.me/5500000000000?text=Ol%C3%A1!%20Gostaria%20de%20fazer%20uma%20cota%C3%A7%C3%A3o%20de%20pap%C3%A9is.",
-     instagram: "https://instagram.com/ribeiro.papeis",
-   };
-   ```
-
-5. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   # ou
-   yarn dev
-   # ou
-   pnpm dev
-   ```
-
-6. **Acesse no navegador:**
-   Abra `http://localhost:3000` para visualizar a Landing Page em execução.
-
----
-
 ## 🌐 Implantação (Deploy)
 
 A forma mais rápida de publicar este projeto é utilizando a plataforma **[Vercel](https://vercel.com/)**:
