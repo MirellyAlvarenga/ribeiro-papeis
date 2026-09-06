@@ -7,9 +7,9 @@ export const CONTACT_INFO = {
   },
   regiane: {
     name: 'Regiane',
-    phone: '3194557253',
-    formattedPhone: '(31) 9455-7253',
-    whatsapp: 'https://wa.me/553194557253',
+    phone: '31984557253',
+    formattedPhone: '(31) 98455-7253',
+    whatsapp: 'https://wa.me/5531984557253',
   },
   instagram: 'https://www.instagram.com/ribeiropapeis/',
 };
