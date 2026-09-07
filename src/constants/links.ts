@@ -12,4 +12,5 @@ export const CONTACT_INFO = {
     whatsapp: 'https://wa.me/5531984557253',
   },
   instagram: 'https://www.instagram.com/ribeiropapeis/',
+  address: 'Rua Juvecina de Queiroz Cavalcanti, 204 - Bairro São Sebastião, Contagem - MG',
 };

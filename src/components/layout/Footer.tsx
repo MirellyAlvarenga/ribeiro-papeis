@@ -12,6 +12,10 @@ export default function Footer() {
             <p className="text-sm leading-relaxed">
               Distribuição comercial de papéis, caixas A4, papéis jornal, reciclados e produtos especiais para escritórios, indústrias e comércio.
             </p>
+            <p className="flex items-start gap-2 text-sm leading-relaxed">
+              <span className="material-symbols-outlined text-emerald-400 text-[18px]">location_on</span>
+              <span>{CONTACT_INFO.address}</span>
+            </p>
           </div>
 
           <div className="space-y-4">
@@ -21,7 +25,7 @@ export default function Footer() {
               <li>Jornal Reciclado</li>
               <li>Papel Jornal</li>
               <li>Bloquinhos de Papel</li>
-              <li>Papel Glassine</li>
+              <li>Papel Glassine (Impermeável)</li>
             </ul>
           </div>
 

@@ -10,7 +10,7 @@ export default function WhyUs() {
     },
     {
       icon: 'layers',
-      title: 'Ampla Variedade',
+      title: 'Papéis mais comuns',
       desc: 'Da linha leve 56g/m² a cartões de alta rigidez 350g/m². Disponibilidade imediata em bobinas e formatos planos.',
       color: 'bg-secondary text-on-secondary',
     },

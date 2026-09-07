@@ -5,11 +5,11 @@ import { CONTACT_INFO } from '@/constants/links';
 export default function Products() {
   const categories = [
     {
-      title: 'Papel A4',
+      title: 'Papel A4 (Sulfite)',
       badge: 'Escritório & Corporativo',
       grammage: '75g/m²',
       format: 'Caixa c/ 10 pacotes (500 fls cada)',
-      desc: 'Papel sulfite A4 de alta alvura, ideal para impressões do dia a dia, documentos corporativos, relatórios e uso geral em escritórios.',
+      desc: 'Papel A4 de alta alvura, ideal para impressões do dia a dia, documentos corporativos, relatórios, pedidos em restaurantes e uso geral em escritórios.',
       image: '/images/papela4.png',
       msg: 'Papel A4 (Caixa com 10 pacotes)',
     },
@@ -41,11 +41,11 @@ export default function Products() {
       msg: 'Bloquinhos de Papel',
     },
     {
-      title: 'Papel Glassine',
+      title: 'Papel Glassine (Impermeável)',
       badge: 'Especial & Barreira',
       grammage: 'Alta Lise e Transparência',
       format: 'Folhas & Rebobinado',
-      desc: 'Papel translúcido, suave e resistente a gordura/umidade. Perfeito para intercalação de fotos, embalagens delicadas e proteção special.',
+      desc: 'Papel translúcido, suave e resistente a gordura/umidade. Perfeito para o ramo alimentício e embalagens delicadas.',
       image: '/images/papelglassine.png',
       msg: 'Papel Glassine',
     },
